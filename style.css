@@ -31,7 +31,7 @@ details{
   text-align: center
 }
 div{
-  align-content: center;
+  text-align: center;
   float: left;
   background-color: red;
   width: 25%;
