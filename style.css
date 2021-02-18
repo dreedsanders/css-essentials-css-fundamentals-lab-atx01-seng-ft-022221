@@ -27,7 +27,7 @@ figcaption{
   width: 800px;
   text-align: center 
 }
-#details{
+#details.div{
   float: left
 }
 }
