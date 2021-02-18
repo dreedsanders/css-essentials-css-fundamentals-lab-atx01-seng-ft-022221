@@ -31,5 +31,8 @@ details{
   float: left
 }
 .div{
-  float: left
+  margin: auto;
+  text-align: center;
+  float: left;
+  width: 25%;
 }
