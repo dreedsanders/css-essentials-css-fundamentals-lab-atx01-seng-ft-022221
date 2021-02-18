@@ -35,5 +35,6 @@ div{
   float: left;
   background-color: red;
   width: 25%;
+  justify-content: center
 }
 
